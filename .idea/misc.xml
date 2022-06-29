@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bloon/AndroidStudioProjects/PracticeAfterWAT/app/src/main/res/drawable/bg_profile_header_vertical_bar.xml" value="0.166" />
+        <entry key="..\:/Users/bloon/AndroidStudioProjects/PracticeAfterWAT/app/src/main/res/drawable/bg_profile_image_border.xml" value="0.166" />
+        <entry key="..\:/Users/bloon/AndroidStudioProjects/PracticeAfterWAT/app/src/main/res/layout/activity_main.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/bloon/AndroidStudioProjects/PracticeAfterWAT/app/src/main/res/layout/fragment_dashboard.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/bloon/AndroidStudioProjects/PracticeAfterWAT/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Users/bloon/AndroidStudioProjects/PracticeAfterWAT/app/src/main/res/layout/fragment_library_book_borrow.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/bloon/AndroidStudioProjects/PracticeAfterWAT/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/bloon/AndroidStudioProjects/PracticeAfterWAT/app/src/main/res/layout/view_profile_header.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/bloon/AndroidStudioProjects/PracticeAfterWAT/app/src/main/res/layout/view_show_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/bloon/AndroidStudioProjects/PracticeAfterWAT/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
